@@ -41,4 +41,4 @@
 
 * [فصل 11 : سیستم](Book/11_Systems/11_Systems.md)
  
-* [فصل 12 : پاک شدن از طریق طراحی پدیدار‌شونده](Book/12_Emergence/12_Emergence.md)
+* [فصل 12 : پاک شدن از طریق طراحی پدیدار‌شونده](Book/12_Emergence/Emergence.md)
