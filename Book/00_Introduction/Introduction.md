@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src=img-0-1.png/>
+  <img src=img-0.1.png/>
 </p>
 
 <div dir='rtl'>
@@ -32,4 +32,4 @@
 
 </div>
 
-* [فصل یک](../1_Clean_Code/clean-code.md)
+* [فصل بعد](../1_Clean_Code/clean-code.md)
