@@ -235,5 +235,5 @@ public class EUVacationPolicy extends VacationPolicy {
 
 </div>
 
-* [فصل قبل](../11_Systems/11_Systems.md)
+* [فصل قبل](../11_Systems/Systems.md)
 * [فصل بعد](../13_Concurrency/Concurrency.md)

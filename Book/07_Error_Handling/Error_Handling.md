@@ -407,5 +407,5 @@ public class MetricsCalculator {
 کد تمیز قابل خواندن است، اما باید (قوی) robust نیز باشد. این اهداف متضاد نیستند. ما می‌توانیم کد تمیز و robust بنویسیم اگر به مدیریت خطا به عنوان یک نگرانی جداگانه نگاه کنیم، چیزی که به طور مستقل از منطق اصلی ما قابل مشاهده است. به میزانی که قادر به انجام این کار باشیم، می‌توانیم به طور مستقل در مورد آن استدلال کنیم و پیشرفت‌های زیادی در نگهداری کد خود داشته باشیم.
 </div>
 
-* [فصل قبل](../6_Objects-And-Data-Structures/Objects-And-Data-Structures.md)
-* [فصل بعد](../8_Boundaries/8_Boundaries.md)
+* [فصل قبل](../06_Objects_And_Data_Structures/Objects_And_Data_Structures.md)
+* [فصل بعد](../08_Boundaries/Boundaries.md)

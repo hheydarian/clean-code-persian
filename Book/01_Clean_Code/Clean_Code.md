@@ -4,7 +4,7 @@
 
 </div>
 
-![clean code](img-1-1.png "clean code")
+![clean code](img-1.1.png "clean code")
 
 <div dir="rtl">
 
@@ -40,7 +40,7 @@
  
 
 <p align="center">
-  <img src=img-1-2.png/>
+  <img src=img-1.2.png/>
 </p>
 
 
@@ -114,6 +114,5 @@
 
 </div>
 
-* [فصل بعد](../2_meaningful-names/meaningful-names.md)
-
-* [فصل قبل](../0_introduction/introduction.md)
+* [فصل قبل](../00_Introduction/Introduction.md)
+* [فصل بعد](../02_Meaningful_Names/Meaningful_Names.md)

@@ -749,6 +749,6 @@ public class SetupTeardownIncluder {
 	}
 }
 ```
-* [فصل بعد](../4_Comments/4_Comments.md)
 
-* [فصل قبل](../2_meaningful-names/meaningful-names.md)
+* [فصل قبل](../02_Meaningful_Names/Meaningful_Names.md)
+* [فصل بعد](../04_Comments/4_Comments.md)

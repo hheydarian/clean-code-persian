@@ -241,5 +241,5 @@ public class LogTest {
 </div>
 
 
-* [فصل بعد](../9_Unit_Tests/9_Unit_Tests.md)
-* [فصل قبل](../7_Error-Handling/Error-Handling.md)
+* [فصل بعد](../07_Error_Handling/Error_Handling.md)
+* [فصل قبل](../09_Unit_Tests/Unit_Tests.md)
