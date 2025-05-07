@@ -32,4 +32,4 @@
 
 </div>
 
-* [فصل بعد](../1_Clean_Code/clean-code.md)
+* [فصل بعد](../01_Clean_Code/Clean_Code.md)
