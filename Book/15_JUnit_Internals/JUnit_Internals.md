@@ -758,4 +758,4 @@ public class ComparisonCompactor {
 </div>
 
 * [فصل قبل](../14_Successive_Refinement/Successive_Refinement.md)
-* [فصل بعد]()
+* [فصل بعد](../16_Refactoring_SerialDate/Refactoring_SerialDate.md)
