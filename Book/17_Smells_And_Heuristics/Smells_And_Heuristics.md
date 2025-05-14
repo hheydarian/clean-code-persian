@@ -1009,13 +1009,4 @@ createOrReturnOos
 
 </div>
 
-<div dir="rtl"></div>
-
-<div dir="rtl"></div>
-
-<div dir="rtl"></div>
-
-<div dir="rtl"></div>
-
-<div dir="rtl"></div>
-<div dir="rtl"></div>
+* [فصل قبل](../16_Refactoring_SerialDate/Refactoring_SerialDate.md)
