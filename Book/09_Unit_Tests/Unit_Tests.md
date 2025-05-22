@@ -1,6 +1,6 @@
 # تست های واحد
 
-![unit tests](image-1-1.png "unit tests")
+![unit tests](img-9.1.png "unit tests")
 
 <div dir="rtl">
 
@@ -375,5 +375,5 @@ public void testAddMonths() {
 
 </div>
 
-* [فصل قبل](../8_Boundaries/8_Boundaries.md)
-* [فصل بعد](../10_Classes/Classes.md)
+* [فصل قبل](../08_Boundaries/Boundaries.md)
+* [فصل بعد](../09_Unit_Tests/Unit_Tests.md)

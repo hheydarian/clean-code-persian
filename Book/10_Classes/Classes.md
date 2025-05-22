@@ -587,5 +587,5 @@ public class PortfolioTest {
 به‌جای اینکه به جزئیات پیاده‌سازی کلاس TokyoStockExchange وابسته باشد، اکنون کلاس Portfolio به واسط StockExchange وابسته است. واسط StockExchange مفهوم انتزاعی درخواست قیمت فعلی یک نماد را نمایندگی می‌کند. این انتزاع تمام جزئیات خاص به‌دست آوردن چنین قیمتی، از جمله منبع به‌دست آوردن آن قیمت را جدا می‌کند.
 </div>
 
-* [فصل قبل](../9_Unit_Tests/9_Unit_Tests.md)
-* [فصل بعد](../11_Systems/11_Systems.md)
+* [فصل قبل](../09_Unit_Tests/Unit_Tests.md)
+* [فصل بعد](../11_Systems/Systems.md)

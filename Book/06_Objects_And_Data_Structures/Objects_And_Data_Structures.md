@@ -294,5 +294,5 @@ public class Address {
 توسعه‌دهندگان نرم‌افزار خوب این مسائل را بدون پیش‌داوری درک می‌کنند و رویکردی را انتخاب می‌کنند که برای کار در دست بهترین باشد.
 </div>
 
-* [فصل قبل](../5_Formatting/5_Formatting.md)
-* [فصل بعد](../7_Error-Handling/Error-Handling.md)
+* [فصل قبل](../05_Formatting/5_Formatting.md)
+* [فصل بعد](../07_Error_Handling/Error_Handling.md)
