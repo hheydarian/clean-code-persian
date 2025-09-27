@@ -2,7 +2,7 @@
 <h1 align="center"> ترجمه آزاد کتاب کد تمیز</h1>
 
 <p align="center">
-  <img src="assets/image/Cover"/>
+  <img src="assets/image/Cover.webp"/>
 </p>
 
 این پروژه یک کار گروهی برای ترجمه آزاد یکی از بهترین کتاب های برنامه نویسی **Clean Code** هست.
