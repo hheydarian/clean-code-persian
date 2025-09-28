@@ -1,31 +1,101 @@
-
-<h1 align="center"> ترجمه آزاد کتاب کد تمیز</h1>
-
 <p align="center">
-  <img src="assets/image/Cover/Cover.webp"/>
+  <a href="https://github.com/hheydarian/clean-code-persian">
+    <img src="assets/image/Cover/Cover.webp" alt="Clean Code Book Cover" width="400"/>
+  </a>
 </p>
 
-این پروژه یک کار گروهی برای ترجمه آزاد یکی از بهترین کتاب های برنامه نویسی **Clean Code** هست.
+<h1 align="center">📘 ترجمه فارسی کتاب Clean Code</h1>
 
-## راهنمای مشارکت
+<p align="center">
+  یکی از بهترین و اثرگذارترین کتاب‌های برنامه‌نویسی برای یادگیری اصول نوشتن کد تمیز و قابل نگهداری
+</p>
 
-## فصل های کتاب (ترجمه شده)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hheydarian/clean-code-persian?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/hheydarian/clean-code-persian?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/hheydarian/clean-code-persian?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Translation-Progress-success" alt="Translation Status">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.clean-code-persian" alt="Visitors">
+</p>
 
-* [مقدمه](Book/00_Introduction/Introduction.md)
-* [فصل 1 : کد تمیز](Book/01_Clean_Code/Clean_Code.md)
-* [فصل 2 : اسامی با معنی](Book/02_Meaningful_Names/Meaningful_Names.md)
-* [فصل 3 : توابع](Book/03_Functions/3_Functions.md)
-* [فصل 4 : کامنت ها](Book/04_Comments/4_Comments.md)
-* [فصل 5 : فرمت دهی](Book/05_Formatting/5_Formatting.md)
-* [فصل 6 : اشیا و ساختار های داده](Book/06_Objects_And_Data_Structures/Objects_And_Data_Structures.md)
-* [فصل 7 : مدیریت خطا](Book/07_Error_Handling/Error_Handling.md)
-* [فصل 8 : مرز ها](Book/08_Boundaries/Boundaries.md)
-* [فصل 9 : unit تست](Book/09_Unit_Tests/Unit_Tests.md)
-* [فصل 10 : کلاس ها](Book/10_Classes/Classes.md)
-* [فصل 11 : سیستم](Book/11_Systems/Systems.md)
-* [فصل 12 : پاک شدن از طریق طراحی پدیدار‌شونده](Book/12_Emergence/Emergence.md)
-* [فصل 13 : هم‌زمانی](Book/13_Concurrency/Concurrency.md)
-* [فصل 14 : بهبود تدریجی](Book/14_Successive_Refinement/Successive_Refinement.md)
-* [فصل 15 : ساختار JUnit](Book/15_JUnit_Internals/JUnit_Internals.md)
-* [فصل 16 : بازسازی SerialDate](Book/16_Refactoring_SerialDate/Refactoring_SerialDate.md)
-* [فصل 17 : بو ها و اصول](Book/17_Smells_And_Heuristics/Smells_And_Heuristics.md)
+---
+
+## ✨ معرفی پروژه
+
+کتاب **Clean Code** نوشته *Robert C. Martin (Uncle Bob)* یکی از مهم‌ترین منابع در حوزه مهندسی نرم‌افزار و توسعه کد تمیز است.  
+این کتاب به شما یاد می‌دهد چطور کدی بنویسید که خوانا، ساده، تست‌پذیر و قابل نگهداری باشد.  
+
+این ریپازیتوری یک ترجمه آزاد و گروهی از این کتاب ارزشمند برای جامعه فارسی‌زبان برنامه‌نویسان است.  
+
+---
+
+## ⚙️ پیش‌نیاز مطالعه
+
+🔹 برای تجربه خوانایی بهتر در مرورگر، توصیه می‌کنیم افزونه [فونت ایران](https://chromewebstore.google.com/detail/fontiran/edbchgkbejkdkdkpgenlaciegoidmjoh) رو نصب کنید.  
+
+---
+
+## 🙌 راه‌های مشارکت
+
+ما به حضور شما در این پروژه افتخار می‌کنیم! مشارکت‌تون می‌تونه شامل موارد زیر باشه:
+
+- 🔎 بازبینی و اصلاح ترجمه‌ها  
+- 💡 ارائه پیشنهادات برای بهبود متن  
+- 🎨 بهبود فرمت‌دهی و مثال‌ها  
+- 🗨️ استفاده از هوش مصنوعی در کمک به ترجمه با راهنمای [پرامپت](assets/prompt.md)  
+
+---
+
+## 🔗 فصل‌های کتاب (با لینک)
+
+<div align="center">
+
+| شماره | نام فصل (انگلیسی)              | نام فصل (فارسی)                           | وضعیت | لینک |
+|-------|---------------------------------|--------------------------------------------|--------|------|
+| 00    | Introduction                    | مقدمه                                      | ✅     | [Introduction](Book/00/Introduction.md) |
+| 01    | Clean Code                      | کد تمیز                                    | ✅     | [Clean_Code](Book/01/Clean_Code.md) |
+| 02    | Meaningful Names                | اسامی با معنی                              | ✅     | [Meaningful_Names](Book/02/Meaningful_Names.md) |
+| 03    | Functions                       | توابع                                      | ✅     | [Functions](Book/03/3_Functions.md) |
+| 04    | Comments                        | کامنت‌ها                                   | ✅     | [Comments](Book/04/4_Comments.md) |
+| 05    | Formatting                      | فرمت‌دهی                                   | ✅     | [Formatting](Book/05/5_Formatting.md) |
+| 06    | Objects and Data Structures     | اشیا و ساختارهای داده                     | ✅     | [Objects_And_Data_Structures](Book/06/Objects_And_Data_Structures.md) |
+| 07    | Error Handling                  | مدیریت خطا                                 | ✅     | [Error_Handling](Book/07/Error_Handling.md) |
+| 08    | Boundaries                      | مرزها                                      | ✅     | [Boundaries](Book/08/Boundaries.md) |
+| 09    | Unit Tests                      | تست‌های واحد                               | ✅     | [Unit_Tests](Book/09_Unit_Tests/Unit_Tests.md) |
+| 10    | Classes                         | کلاس‌ها                                    | ✅     | [Classes](Book/10/Classes.md) |
+| 11    | Systems                         | سیستم‌ها                                   | ✅     | [Systems](Book/11/Systems.md) |
+| 12    | Emergence                       | پاک شدن از طریق طراحی پدیدارشونده          | ✅     | [Emergence](Book/12/Emergence.md) |
+| 13    | Concurrency                     | هم‌زمانی                                   | ✅     | [Concurrency](Book/13/Concurrency.md) |
+| 14    | Successive Refinement           | بهبود تدریجی                               | ✅     | [Successive_Refinement](Book/14/Successive_Refinement.md) |
+| 15    | JUnit Internals                 | ساختار JUnit                               | ✅     | [JUnit_Internals](Book/15/JUnit_Internals.md) |
+| 16    | Refactoring SerialDate          | بازسازی SerialDate                         | ✅     | [Refactoring_SerialDate](Book/16/Refactoring_SerialDate.md) |
+| 17    | Smells and Heuristics           | بوها و اصول                                | ✅     | [Smells_And_Heuristics](Book/17/Smells_And_Heuristics.md) |
+
+</div>
+
+---
+
+## 🧩 اصول ساختاری پروژه
+
+- فایل‌ها با فرمت `.md` نوشته شده‌اند  
+- عکس‌ها داخل پوشه `assets/image/` ذخیره شده‌اند  
+- برای یادگیری Markdown می‌تونید به [این منبع](https://markdown-fa-book.vercel.app/) مراجعه کنید  
+
+---
+
+## 🛡️ مجوز و حقوق نشر
+<ul dir="rtl">
+<li><b>حقوق نشر و کپی‌رایت کتاب اصلی: </b> متعلق به <i>Robert C. Martin</i> (Uncle Bob). </li>
+<li><b>متن ترجمه: </b> تحت مجوز <code>CC BY-NC-SA 4.0</code> منتشر می‌شود. </li>
+<li><b>نمونه کدهای داخل کتاب: </b> تحت مجوز <code>MIT License</code> منتشر شده‌اند. </li>
+</ul>
+
+---
+
+## 🌟 قدردانی
+
+سپاس ویژه از همه دوستانی که در این ترجمه و انتشار مشارکت کردن. 🌱  
+
+---
+
+<p align="center">ساخته شده با ❤️ توسط حامد برای برنامه‌نویسان</p>
