@@ -1,6 +1,6 @@
 # بوها و اصول (Smells and Heuristics)
 
-![image](img-17.1.png)
+![image](../../assets/image/17/img-17.1.png)
 
 <div dir="rtl">
 
