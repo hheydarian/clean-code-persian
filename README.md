@@ -70,6 +70,9 @@
 | 15    | JUnit Internals                 | ساختار JUnit                               | ✅     | [JUnit_Internals](Book/15/JUnit_Internals.md) |
 | 16    | Refactoring SerialDate          | بازسازی SerialDate                         | ✅     | [Refactoring_SerialDate](Book/16/Refactoring_SerialDate.md) |
 | 17    | Smells and Heuristics           | بوها و اصول                                | ✅     | [Smells_And_Heuristics](Book/17/Smells_And_Heuristics.md) |
+| A    | Concurrency II           | هم‌روندی بخش دوم                                | ✅     | [Concurrency_II](Book/Appendix_A/Concurrency_II.md) |
+| B    | org.jfree.date.SerialDate           | کلاس org.jfree.date.SerialDate                                | ✅     | [org.jfree.date.SerialDate](Book/Appendix_B/org.jfree.date.SerialDate.md) |
+| C    | Cross_References_of_Heuristics           | ارجاعات متقابل هِوریستیک‌ها                               | ✅     | [Cross_References_of_Heuristics](Book/Appendix_C/Cross_References_of_Heuristics.md) |
 
 </div>
 
@@ -98,4 +101,4 @@
 
 ---
 
-<p align="center">ساخته شده با ❤️ توسط حامد برای برنامه‌نویسان</p>
+<p align="center">ساخته شده با ❤️ توسط برنامه‌نویسان برای برنامه‌نویسان</p>
