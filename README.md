@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/hheydarian/clean-code-persian?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/hheydarian/clean-code-persian?color=blueviolet" alt="GitHub forks">
-  <img src="https://img.shields.io/github/last-commit/hheydarian/clean-code-persian?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/github/stars/mojtaba-afraz/clean-code-persian?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/mojtaba-afraz/clean-code-persian?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/mojtaba-afraz/clean-code-persian?color=9cf" alt="Last Commit">
   <img src="https://img.shields.io/badge/Translation-Progress-success" alt="Translation Status">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.clean-code-persian" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mojtaba-afraz.clean-code-persian" alt="Visitors">
 </p>
 
 ---
