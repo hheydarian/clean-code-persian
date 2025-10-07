@@ -1108,9 +1108,7 @@ Appendix B: org.jfree.date.SerialDate
 
 ```
 
-
 ### 📝 فهرست B-2 — فایل SerialDateTest.java
-
 
 ```java
 
@@ -1463,7 +1461,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-3 — فایل MonthConstants.java
 
-
 ```java
 1 /* ========================================================================
    2  * JCommon : a free general purpose class library for the Java(tm) platform
@@ -1565,7 +1562,6 @@ Appendix B: org.jfree.date.SerialDate
 ```
 
 ### 📝 فهرست B-4 — فایل BobsSerialDateTest.java
-
 
 ```java
  1 package org.jfree.date.junit;
@@ -2819,9 +2815,7 @@ Appendix B: org.jfree.date.SerialDate
 
 ```
 
-
 ### 📝 فهرست B-7 — فایل DayDate.java
-
 
 ```java
 
@@ -2989,7 +2983,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-8 — فایل Month.java
 
-
 ```java
 
  1 package org.jfree.date;
@@ -3063,7 +3056,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-9 — فایل Day.java
 
-
 ```java
  1 package org.jfree.date;
    2 
@@ -3126,7 +3118,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-10 — فایل DateInterval.java
 
-
 ```java
  1 package org.jfree.date;
    2 
@@ -3158,7 +3149,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ```
 
-
 ### 📝 فهرست B-11 — فایل WeekInMonth.java
 
 ```java
@@ -3182,7 +3172,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-12 — فایل WeekdayRange.java
 
-
 ```java
  1 package org.jfree.date;
    2 
@@ -3194,7 +3183,6 @@ Appendix B: org.jfree.date.SerialDate
 ```
 
 ### 📝 فهرست B-13 — فایل DateUtil.java
-
 
 ```java
 
@@ -3235,7 +3223,6 @@ Appendix B: org.jfree.date.SerialDate
 ```
 
 ### 📝 فهرست B-14 — فایل DayDateFactory.java
-
 
 ```java
  1 package org.jfree.date;
@@ -3283,7 +3270,6 @@ Appendix B: org.jfree.date.SerialDate
 
 ### 📝 فهرست B-15 — فایل SpreadsheetDateFactory.java
 
-
 ```java
 
   1 package org.jfree.date;
@@ -3325,7 +3311,6 @@ Appendix B: org.jfree.date.SerialDate
 ```
 
 ### 📝 فهرست B-16 — فایل SpreadsheetDate.java
-
 
 ```java
  1 /* ========================================================================
@@ -3510,3 +3495,6 @@ Appendix B: org.jfree.date.SerialDate
 
 
 ```
+
+* [فصل قبل](../Appendix_B/org.jfree.date.SerialDate.md)
+* [فصل بعد](../Appendix_C/Cross_References_of_Heuristics.md)
