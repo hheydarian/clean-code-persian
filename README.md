@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/hheydarian/clean-code-persian">
+  <a href="https://github.com/mojtaba-afraz/clean-code-persian">
     <img src="assets/image/Cover/Cover.webp" alt="Clean Code Book Cover" width="400"/>
   </a>
 </p>
@@ -41,8 +41,7 @@
 
 - 🔎 بازبینی و اصلاح ترجمه‌ها  
 - 💡 ارائه پیشنهادات برای بهبود متن  
-- 🎨 بهبود فرمت‌دهی و مثال‌ها  
-- 🗨️ استفاده از هوش مصنوعی در کمک به ترجمه با راهنمای [پرامپت](assets/prompt.md)  
+- 🎨 بهبود فرمت‌دهی و مثال‌ها   
 
 ---
 
