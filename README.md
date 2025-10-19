@@ -61,9 +61,9 @@
 | 00    | Introduction                    | مقدمه                                      | ✅     | [Introduction](Book/00_Introduction/Introduction.md) |
 | 01    | Clean Code                      | کد تمیز                                    | ✅     | [Clean_Code](Book/01_Clean_Code/Clean_Code.md) |
 | 02    | Meaningful Names                | اسامی با معنی                              | ✅     | [Meaningful_Names](Book/02_Meaningful_Names/Meaningful_Names.md) |
-| 03    | Functions                       | توابع                                      | ✅     | [Functions](Book/03_3_Functions/3_Functions.md) |
-| 04    | Comments                        | کامنت‌ها                                   | ✅     | [Comments](Book/04_4_Comments/4_Comments.md) |
-| 05    | Formatting                      | فرمت‌دهی                                   | ✅     | [Formatting](Book/05_5_Formatting/5_Formatting.md) |
+| 03    | Functions                       | توابع                                      | ✅     | [Functions](Book/03_Functions/3_Functions.md) |
+| 04    | Comments                        | کامنت‌ها                                   | ✅     | [Comments](Book/04_Comments/4_Comments.md) |
+| 05    | Formatting                      | فرمت‌دهی                                   | ✅     | [Formatting](Book/05_Formatting/5_Formatting.md) |
 | 06    | Objects and Data Structures     | اشیا و ساختارهای داده                     | ✅     | [Objects_And_Data_Structures](Book/06_Objects_And_Data_Structures/Objects_And_Data_Structures.md) |
 | 07    | Error Handling                  | مدیریت خطا                                 | ✅     | [Error_Handling](Book/07_Error_Handling/Error_Handling.md) |
 | 08    | Boundaries                      | مرزها                                      | ✅     | [Boundaries](Book/08_Boundaries/Boundaries.md) |
