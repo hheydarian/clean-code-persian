@@ -58,7 +58,7 @@
 
 | شماره | نام فصل (انگلیسی)              | نام فصل (فارسی)                           | وضعیت | لینک |
 |-------|---------------------------------|--------------------------------------------|--------|------|
-| 00    | Introduction                    | مقدمه                                      | ✅     | [Introduction](Book/00/Introduction.md) |
+| 00    | Introduction                    | مقدمه                                      | ✅     | [Introduction](Book/00_Introduction/Introduction.md) |
 | 01    | Clean Code                      | کد تمیز                                    | ✅     | [Clean_Code](Book/01/Clean_Code.md) |
 | 02    | Meaningful Names                | اسامی با معنی                              | ✅     | [Meaningful_Names](Book/02/Meaningful_Names.md) |
 | 03    | Functions                       | توابع                                      | ✅     | [Functions](Book/03/3_Functions.md) |
